@@ -34,23 +34,23 @@ global.swb = '-'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '08×××××××'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
+global.pdana = '083177947582'
+global.povo = '083177947582'
+global.pgopay = '083177947582'
+global.ppulsa = '083177947582'
 global.ppulsa2 = '08××××××' //Payment Pulsa
 global.psaweria = 'https://saweria.com' //Link Saweria
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62×××××'
-global.nomorown = '62××××'
-global.namebot = 'Nama Bot kamu'
-global.nameown = 'Nama Kamu'
+global.nomorbot = '6288983719803'
+global.nomorown = '6283177947582'
+global.namebot = 'naofy botz'
+global.nameown = 'asura'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62××××', 'Nama Owner', 'true']
+  ['6283177947582', 'asura', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -101,14 +101,14 @@ global.bear = 'VBkM7rbU'
 
 /*============== WATERMARK ==============*/
 // Ganti Watermak Disini Bang
-global.wm = 'By Holo Bot' //Main Watermark
-global.wm2 = 'Holo Bot'
-global.wm3 = 'Holo Bot | Mooon ID'
+global.wm = 'By Naofy Bot' //Main Watermark
+global.wm2 = 'naofy bot'
+global.wm3 = 'naofy | asura'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `Neko Bot| ʙʏ ${global.nameown}`
-global.author = 'Holo Bot' 
-global.packname = 'Holo Bot'
+global.author = 'naofy' 
+global.packname = 'naofy'
 global.danied = 'Error/Tidak ada akses'
 global.ultahowner = 'Juni 11 2023'
 
@@ -125,11 +125,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NeKo Bot Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Bang Fuad  Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Nama Kamu'
-global.umurowner = '19'
-global.asalowner = 'Japanes, Isekai'
-global.nomorowner = 'wa.me/62×××××'
-global.pacarowner = 'Gaada'
+global.nameowner = 'asura'
+global.umurowner = '16'
+global.asalowner = 'Japanese, Kyoto'
+global.nomorowner = 'wa.me/6283177947582'
+global.pacarowner = 'chika fujiwara'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -377,8 +377,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By Holo Bot'
-global.stickauth = `HoloBot`
+global.stickpack = 'By Naofy Bot'
+global.stickauth = `NaofyBot`
 
 global.multiplier = 38 // The higher, The harder levelup
 
